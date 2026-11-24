@@ -1,0 +1,51 @@
+date,description,amount
+2026-01-03,Office Rent,-2967.17
+2026-01-06,Customer Payment,2519.89
+2026-01-14,Customer Refund,-648.88
+2026-01-20,Advertising,-702.34
+2026-01-21,Utility Payment,-108.02
+2026-01-23,Equipment Purchase,-1588.43
+2026-01-25,Server Hosting,-63.11
+2026-01-28,Software Subscription,-245.79
+2026-01-28,Software Development,2349.53
+2026-02-03,Consulting Revenue,1135.64
+2026-02-10,Office Supplies,-79.49
+2026-02-16,Advertising,-988.56
+2026-02-17,Subscription Revenue,134.45
+2026-02-19,"Travel, Parking and Tolls",-116.61
+2026-02-21,Bank Fee,-3.42
+2026-02-22,Employee Payroll,-1812.78
+2026-02-28,"Equipment ""Repair""",-242.97
+2026-03-05,Server Hosting,-121.97
+2026-03-07,Office Rent,-1966.02
+2026-03-11,Equipment Purchase,-1546.33
+2026-03-17,Utility Payment,-212.49
+2026-03-22,Customer Payment,2386.00
+2026-03-22,Customer Refund,-949.22
+2026-03-24,Software Subscription,-196.17
+2026-03-24,Software Development,5802.03
+2026-04-07,Consulting Revenue,920.42
+2026-04-08,"Equipment ""Repair""",-113.59
+2026-04-09,Utility Payment,-138.74
+2026-04-13,Subscription Revenue,74.25
+2026-04-15,"Travel, Parking and Tolls",-139.81
+2026-04-20,Advertising,-966.56
+2026-04-21,Bank Fee,-20.94
+2026-04-26,Office Supplies,-217.88
+2026-04-26,Employee Payroll,-3145.00
+2026-05-04,Software Development,3574.82
+2026-05-10,Customer Refund,-585.93
+2026-05-11,Equipment Purchase,-2250.07
+2026-05-13,Server Hosting,-94.98
+2026-05-17,Subscription Revenue,127.33
+2026-05-22,Customer Payment,4103.98
+2026-02-30,Impossible date,12.00
+,Missing date,12.00
+24/11/2026,Non-ISO date,12.00
+2026-02-01,,12.00
+2026-02-01,Whitespace description,
+2026-02-01,Not numeric,abc
+2026-02-01,Nonfinite amount,NaN
+2026-02-01,Nonfinite infinity,Infinity
+2026-02-01,Too many decimal places,1.001
+2026-02-01,Extra field,10.00,unexpected
