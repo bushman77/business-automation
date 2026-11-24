@@ -1,0 +1,1001 @@
+date,description,amount
+2026-01-01,Utility Payment,-258.13
+2026-01-01,Bank Fee,-24.84
+2026-01-02,Office Supplies,-279.24
+2026-01-02,Office Supplies,-236.22
+2026-01-03,"Travel, Parking and Tolls",-59.78
+2026-01-03,Office Rent,-2853.07
+2026-01-03,"Travel, Parking and Tolls",-58.50
+2026-01-03,"Travel, Parking and Tolls",-55.27
+2026-01-04,Software Development,6690.79
+2026-01-04,"Equipment ""Repair""",-148.09
+2026-01-05,Subscription Revenue,230.38
+2026-01-05,Server Hosting,-143.72
+2026-01-05,Subscription Revenue,215.11
+2026-01-06,Customer Payment,3404.42
+2026-01-06,Employee Payroll,-1681.42
+2026-01-06,Customer Refund,-82.17
+2026-01-06,Office Supplies,-76.15
+2026-01-07,"Travel, Parking and Tolls",-193.00
+2026-01-07,Office Rent,-2559.90
+2026-01-07,"Travel, Parking and Tolls",-50.75
+2026-01-07,Consulting Revenue,2653.74
+2026-01-08,Advertising,-454.12
+2026-01-08,"Equipment ""Repair""",-90.40
+2026-01-08,Software Subscription,-154.32
+2026-01-08,Software Development,4545.34
+2026-01-09,Server Hosting,-30.46
+2026-01-10,Customer Refund,-376.79
+2026-01-10,Customer Refund,-748.66
+2026-01-11,Consulting Revenue,980.21
+2026-01-12,"Equipment ""Repair""",-122.30
+2026-01-12,Software Subscription,-161.89
+2026-01-13,Utility Payment,-254.08
+2026-01-13,Bank Fee,-12.77
+2026-01-13,Bank Fee,-25.33
+2026-01-14,Customer Refund,-291.25
+2026-01-14,Employee Payroll,-2393.14
+2026-01-14,Customer Payment,348.63
+2026-01-15,Office Rent,-2263.37
+2026-01-16,Advertising,-826.33
+2026-01-16,Advertising,-522.99
+2026-01-16,Software Development,5586.31
+2026-01-16,"Equipment ""Repair""",-147.66
+2026-01-16,"Equipment ""Repair""",-188.78
+2026-01-17,Bank Fee,-10.77
+2026-01-17,Bank Fee,-8.15
+2026-01-17,Subscription Revenue,247.75
+2026-01-17,Server Hosting,-90.07
+2026-01-18,Employee Payroll,-3061.36
+2026-01-18,Employee Payroll,-1260.20
+2026-01-18,Employee Payroll,-2781.20
+2026-01-18,Employee Payroll,-2113.69
+2026-01-19,Consulting Revenue,2938.93
+2026-01-19,Office Rent,-2894.23
+2026-01-19,Equipment Purchase,-2092.79
+2026-01-20,Software Development,5532.74
+2026-01-20,Software Development,2430.48
+2026-01-20,Advertising,-829.31
+2026-01-21,Server Hosting,-114.01
+2026-01-21,Subscription Revenue,99.58
+2026-01-21,Utility Payment,-117.66
+2026-01-21,Utility Payment,-71.77
+2026-01-21,Server Hosting,-62.85
+2026-01-22,Customer Payment,191.78
+2026-01-22,Customer Payment,1962.11
+2026-01-22,Office Supplies,-118.34
+2026-01-23,Equipment Purchase,-1100.49
+2026-01-23,Consulting Revenue,2635.95
+2026-01-23,Office Rent,-2805.32
+2026-01-23,Consulting Revenue,1171.69
+2026-01-24,Software Subscription,-278.35
+2026-01-24,Software Subscription,-260.29
+2026-01-24,Advertising,-226.25
+2026-01-24,Software Subscription,-120.48
+2026-01-25,Utility Payment,-200.67
+2026-01-25,Subscription Revenue,124.38
+2026-01-25,Bank Fee,-8.67
+2026-01-26,Office Supplies,-240.69
+2026-01-26,Customer Payment,2951.06
+2026-01-26,Customer Refund,-719.19
+2026-01-27,Equipment Purchase,-1969.39
+2026-01-27,Equipment Purchase,-894.89
+2026-01-27,Equipment Purchase,-1092.21
+2026-01-27,"Travel, Parking and Tolls",-114.73
+2026-01-28,"Equipment ""Repair""",-188.77
+2026-02-01,Utility Payment,-83.30
+2026-02-01,Bank Fee,-8.46
+2026-02-01,Utility Payment,-222.56
+2026-02-01,Server Hosting,-57.72
+2026-02-01,Bank Fee,-27.02
+2026-02-02,Customer Refund,-645.15
+2026-02-02,Office Supplies,-292.36
+2026-02-02,Employee Payroll,-2637.99
+2026-02-02,Customer Payment,1921.43
+2026-02-02,Employee Payroll,-2519.72
+2026-02-03,Consulting Revenue,2622.33
+2026-02-03,Equipment Purchase,-2280.41
+2026-02-03,Office Rent,-1746.26
+2026-02-03,Office Rent,-2528.35
+2026-02-04,Advertising,-759.82
+2026-02-04,Software Development,6751.18
+2026-02-04,Advertising,-119.53
+2026-02-04,Software Development,1503.44
+2026-02-04,Advertising,-436.03
+2026-02-05,Server Hosting,-67.45
+2026-02-05,Subscription Revenue,93.86
+2026-02-05,Subscription Revenue,71.86
+2026-02-05,Utility Payment,-272.60
+2026-02-06,Customer Payment,1197.70
+2026-02-06,Customer Refund,-849.87
+2026-02-06,Customer Payment,2587.04
+2026-02-06,Office Supplies,-92.26
+2026-02-07,Office Rent,-1561.98
+2026-02-07,Consulting Revenue,2753.16
+2026-02-07,"Travel, Parking and Tolls",-152.62
+2026-02-07,"Travel, Parking and Tolls",-177.45
+2026-02-08,Software Development,4786.39
+2026-02-08,Software Subscription,-90.49
+2026-02-08,"Equipment ""Repair""",-229.24
+2026-02-09,Server Hosting,-140.73
+2026-02-10,Office Supplies,-171.60
+2026-02-10,Employee Payroll,-1277.13
+2026-02-11,"Travel, Parking and Tolls",-165.14
+2026-02-12,Advertising,-211.78
+2026-02-12,Software Subscription,-186.20
+2026-02-12,Software Development,1818.45
+2026-02-13,Utility Payment,-230.07
+2026-02-13,Subscription Revenue,222.43
+2026-02-14,Customer Payment,3074.78
+2026-02-14,Office Supplies,-159.93
+2026-02-14,Customer Payment,2525.04
+2026-02-15,Equipment Purchase,-2197.85
+2026-02-15,Office Rent,-2723.77
+2026-02-15,"Travel, Parking and Tolls",-238.48
+2026-02-17,Utility Payment,-275.68
+2026-02-17,Bank Fee,-33.94
+2026-02-17,Server Hosting,-118.43
+2026-02-17,Bank Fee,-33.24
+2026-02-17,Subscription Revenue,234.36
+2026-02-18,Customer Refund,-302.02
+2026-02-18,Customer Refund,-87.89
+2026-02-19,Equipment Purchase,-228.60
+2026-02-19,Office Rent,-2643.95
+2026-02-19,Equipment Purchase,-1613.19
+2026-02-20,"Equipment ""Repair""",-61.36
+2026-02-21,Bank Fee,-28.25
+2026-02-21,Server Hosting,-128.06
+2026-02-22,Employee Payroll,-1278.36
+2026-02-22,Customer Refund,-651.00
+2026-02-22,Customer Payment,1516.87
+2026-02-23,Consulting Revenue,1346.28
+2026-02-24,Software Subscription,-156.42
+2026-02-24,Software Subscription,-53.69
+2026-02-24,Software Development,4300.72
+2026-02-24,Advertising,-837.16
+2026-02-24,Software Subscription,-75.98
+2026-02-24,Advertising,-395.36
+2026-02-24,"Equipment ""Repair""",-57.43
+2026-02-25,Subscription Revenue,170.47
+2026-02-25,Utility Payment,-279.73
+2026-02-26,Office Supplies,-215.08
+2026-02-26,Employee Payroll,-1967.09
+2026-02-27,"Travel, Parking and Tolls",-58.44
+2026-02-27,Equipment Purchase,-1171.70
+2026-02-27,Consulting Revenue,1471.87
+2026-02-27,Consulting Revenue,2511.50
+2026-02-28,"Equipment ""Repair""",-163.56
+2026-02-28,"Equipment ""Repair""",-195.18
+2026-03-01,Bank Fee,-19.80
+2026-03-01,Utility Payment,-95.97
+2026-03-01,Server Hosting,-52.53
+2026-03-02,Customer Payment,1250.19
+2026-03-02,Customer Refund,-106.73
+2026-03-02,Employee Payroll,-2372.49
+2026-03-02,Customer Payment,1081.66
+2026-03-03,Consulting Revenue,2416.27
+2026-03-03,Consulting Revenue,1544.24
+2026-03-03,Consulting Revenue,998.17
+2026-03-03,Equipment Purchase,-2175.86
+2026-03-04,Advertising,-404.92
+2026-03-04,Advertising,-698.77
+2026-03-04,Advertising,-263.24
+2026-03-05,Utility Payment,-214.69
+2026-03-05,Bank Fee,-21.00
+2026-03-05,Subscription Revenue,203.28
+2026-03-06,Office Supplies,-91.84
+2026-03-06,Customer Refund,-257.03
+2026-03-07,Office Rent,-1931.48
+2026-03-07,Office Rent,-2024.25
+2026-03-07,Equipment Purchase,-1466.85
+2026-03-07,Consulting Revenue,1599.44
+2026-03-07,Equipment Purchase,-2100.81
+2026-03-08,Software Subscription,-47.13
+2026-03-08,Software Development,6682.57
+2026-03-08,Software Subscription,-198.18
+2026-03-08,Software Subscription,-124.58
+2026-03-09,Subscription Revenue,194.25
+2026-03-10,Employee Payroll,-3462.92
+2026-03-10,Employee Payroll,-3147.36
+2026-03-10,Customer Refund,-121.61
+2026-03-10,Customer Payment,1777.24
+2026-03-11,Office Rent,-2145.56
+2026-03-11,Office Rent,-1974.92
+2026-03-11,Office Rent,-2788.84
+2026-03-12,Software Development,1728.31
+2026-03-12,"Equipment ""Repair""",-350.63
+2026-03-12,Software Subscription,-122.12
+2026-03-12,Software Subscription,-108.39
+2026-03-12,Software Development,2574.77
+2026-03-13,Server Hosting,-104.45
+2026-03-13,Utility Payment,-276.94
+2026-03-13,Bank Fee,-16.86
+2026-03-14,Customer Refund,-964.66
+2026-03-14,Office Supplies,-262.05
+2026-03-15,Equipment Purchase,-326.99
+2026-03-16,Software Development,5853.63
+2026-03-17,Server Hosting,-51.56
+2026-03-17,Subscription Revenue,168.79
+2026-03-17,Utility Payment,-78.70
+2026-03-18,Office Supplies,-317.02
+2026-03-18,Office Supplies,-27.32
+2026-03-18,Employee Payroll,-2387.99
+2026-03-19,"Travel, Parking and Tolls",-236.04
+2026-03-19,"Travel, Parking and Tolls",-58.60
+2026-03-19,"Travel, Parking and Tolls",-240.88
+2026-03-20,Software Subscription,-170.01
+2026-03-20,Advertising,-939.31
+2026-03-20,"Equipment ""Repair""",-35.19
+2026-03-20,"Equipment ""Repair""",-338.27
+2026-03-20,Advertising,-763.81
+2026-03-21,Server Hosting,-99.59
+2026-03-21,Subscription Revenue,65.11
+2026-03-21,Utility Payment,-102.37
+2026-03-21,Subscription Revenue,47.04
+2026-03-21,Bank Fee,-8.08
+2026-03-22,Customer Payment,1465.66
+2026-03-23,Consulting Revenue,1418.27
+2026-03-23,"Travel, Parking and Tolls",-9.47
+2026-03-24,"Equipment ""Repair""",-421.55
+2026-03-24,"Equipment ""Repair""",-201.24
+2026-03-25,Bank Fee,-19.37
+2026-03-25,Server Hosting,-98.74
+2026-03-25,Server Hosting,-78.79
+2026-03-26,Office Supplies,-304.05
+2026-03-26,Customer Refund,-365.88
+2026-03-26,Employee Payroll,-2376.19
+2026-03-26,Customer Payment,2511.50
+2026-03-27,Equipment Purchase,-2353.24
+2026-03-27,"Travel, Parking and Tolls",-73.63
+2026-03-27,Equipment Purchase,-394.24
+2026-03-28,Software Development,3030.72
+2026-04-01,Server Hosting,-98.81
+2026-04-01,Bank Fee,-19.28
+2026-04-01,Server Hosting,-73.48
+2026-04-01,Subscription Revenue,231.22
+2026-04-02,Office Supplies,-303.36
+2026-04-02,Customer Refund,-949.05
+2026-04-03,Consulting Revenue,2644.90
+2026-04-03,Office Rent,-1604.40
+2026-04-03,Equipment Purchase,-2373.06
+2026-04-03,Office Rent,-2460.53
+2026-04-04,Software Subscription,-107.53
+2026-04-04,Advertising,-208.87
+2026-04-04,Software Subscription,-163.02
+2026-04-04,"Equipment ""Repair""",-177.10
+2026-04-04,Software Development,3168.55
+2026-04-05,Bank Fee,-20.72
+2026-04-05,Utility Payment,-104.39
+2026-04-05,Utility Payment,-132.39
+2026-04-06,Office Supplies,-133.51
+2026-04-06,Employee Payroll,-1371.28
+2026-04-06,Employee Payroll,-1789.00
+2026-04-06,Employee Payroll,-2160.67
+2026-04-06,Customer Payment,4306.59
+2026-04-07,"Travel, Parking and Tolls",-214.23
+2026-04-07,Consulting Revenue,2311.06
+2026-04-08,Software Subscription,-163.80
+2026-04-08,Software Development,2923.90
+2026-04-08,"Equipment ""Repair""",-271.69
+2026-04-08,Advertising,-502.84
+2026-04-08,"Equipment ""Repair""",-479.24
+2026-04-09,Utility Payment,-191.51
+2026-04-09,Subscription Revenue,16.79
+2026-04-09,Bank Fee,-24.56
+2026-04-10,Customer Refund,-935.16
+2026-04-10,Office Supplies,-249.16
+2026-04-11,Equipment Purchase,-1145.52
+2026-04-11,Office Rent,-2836.42
+2026-04-12,"Equipment ""Repair""",-91.05
+2026-04-12,Advertising,-569.57
+2026-04-12,Software Development,6337.13
+2026-04-13,Server Hosting,-51.19
+2026-04-15,Office Rent,-1531.08
+2026-04-15,Equipment Purchase,-734.51
+2026-04-15,Office Rent,-2795.85
+2026-04-15,"Travel, Parking and Tolls",-95.05
+2026-04-15,Consulting Revenue,2624.21
+2026-04-16,"Equipment ""Repair""",-297.42
+2026-04-16,Advertising,-288.27
+2026-04-17,Bank Fee,-24.48
+2026-04-17,Server Hosting,-36.01
+2026-04-17,Subscription Revenue,36.77
+2026-04-18,Customer Refund,-15.06
+2026-04-18,Office Supplies,-65.10
+2026-04-18,Customer Refund,-245.60
+2026-04-18,Customer Payment,2999.13
+2026-04-18,Customer Refund,-26.76
+2026-04-18,Customer Payment,1326.60
+2026-04-18,Customer Refund,-62.19
+2026-04-19,Equipment Purchase,-490.09
+2026-04-19,"Travel, Parking and Tolls",-199.83
+2026-04-20,Software Development,1987.52
+2026-04-21,Subscription Revenue,42.84
+2026-04-21,Bank Fee,-6.26
+2026-04-21,Utility Payment,-52.32
+2026-04-22,Customer Payment,3044.54
+2026-04-22,Office Supplies,-333.26
+2026-04-23,Consulting Revenue,2521.63
+2026-04-23,"Travel, Parking and Tolls",-216.96
+2026-04-24,Software Development,6999.14
+2026-04-24,Advertising,-846.63
+2026-04-24,Software Subscription,-58.98
+2026-04-25,Subscription Revenue,120.10
+2026-04-25,Utility Payment,-244.66
+2026-04-25,Subscription Revenue,72.18
+2026-04-25,Server Hosting,-144.17
+2026-04-26,Employee Payroll,-2156.97
+2026-04-26,Employee Payroll,-1515.50
+2026-04-26,Customer Payment,3108.40
+2026-04-27,Consulting Revenue,2530.17
+2026-04-27,"Travel, Parking and Tolls",-18.02
+2026-04-27,Office Rent,-2181.85
+2026-04-27,Equipment Purchase,-874.97
+2026-04-28,Software Development,1739.61
+2026-04-28,Software Subscription,-27.63
+2026-05-01,Bank Fee,-6.88
+2026-05-01,Utility Payment,-184.87
+2026-05-01,Subscription Revenue,145.33
+2026-05-01,Bank Fee,-2.67
+2026-05-01,Server Hosting,-92.92
+2026-05-01,Subscription Revenue,181.00
+2026-05-02,Office Supplies,-243.92
+2026-05-02,Employee Payroll,-1297.30
+2026-05-03,"Travel, Parking and Tolls",-9.64
+2026-05-04,"Equipment ""Repair""",-374.55
+2026-05-04,"Equipment ""Repair""",-56.35
+2026-05-05,Server Hosting,-118.95
+2026-05-05,Utility Payment,-272.62
+2026-05-06,Employee Payroll,-1586.99
+2026-05-06,Employee Payroll,-2168.29
+2026-05-06,Employee Payroll,-2630.93
+2026-05-06,Customer Refund,-234.83
+2026-05-06,Office Supplies,-284.55
+2026-05-07,"Travel, Parking and Tolls",-78.72
+2026-05-07,Equipment Purchase,-609.55
+2026-05-07,Office Rent,-1739.41
+2026-05-07,Consulting Revenue,2156.50
+2026-05-08,Software Development,2895.45
+2026-05-08,Software Development,2247.25
+2026-05-08,"Equipment ""Repair""",-328.78
+2026-05-09,Bank Fee,-31.09
+2026-05-09,Subscription Revenue,69.59
+2026-05-10,Office Supplies,-270.31
+2026-05-10,Office Supplies,-75.24
+2026-05-10,Customer Refund,-901.25
+2026-05-10,Customer Payment,4334.04
+2026-05-10,Customer Payment,3568.79
+2026-05-11,"Travel, Parking and Tolls",-79.88
+2026-05-11,Consulting Revenue,2197.22
+2026-05-11,Consulting Revenue,2913.18
+2026-05-12,Software Subscription,-225.20
+2026-05-13,Utility Payment,-126.10
+2026-05-14,Customer Payment,3483.23
+2026-05-14,Customer Payment,2722.68
+2026-05-15,Equipment Purchase,-2079.32
+2026-05-15,Consulting Revenue,2237.20
+2026-05-15,Office Rent,-1889.33
+2026-05-16,Software Development,6907.94
+2026-05-16,Advertising,-355.47
+2026-05-17,Utility Payment,-80.41
+2026-05-17,Subscription Revenue,80.80
+2026-05-17,Server Hosting,-87.60
+2026-05-18,Employee Payroll,-1644.85
+2026-05-18,Customer Refund,-649.81
+2026-05-18,Customer Payment,3588.73
+2026-05-19,Consulting Revenue,2076.35
+2026-05-19,Office Rent,-1729.83
+2026-05-19,"Travel, Parking and Tolls",-93.67
+2026-05-19,Consulting Revenue,2983.43
+2026-05-20,Software Development,3442.54
+2026-05-20,Advertising,-977.15
+2026-05-20,Software Subscription,-191.08
+2026-05-20,"Equipment ""Repair""",-145.96
+2026-05-20,"Equipment ""Repair""",-37.81
+2026-05-20,Software Development,1034.79
+2026-05-21,Subscription Revenue,181.90
+2026-05-21,Utility Payment,-207.30
+2026-05-21,Server Hosting,-27.89
+2026-05-22,Office Supplies,-222.49
+2026-05-23,Office Rent,-2888.48
+2026-05-23,Equipment Purchase,-873.84
+2026-05-23,"Travel, Parking and Tolls",-41.43
+2026-05-23,Equipment Purchase,-1073.02
+2026-05-24,Advertising,-610.21
+2026-05-24,Software Subscription,-259.28
+2026-05-24,"Equipment ""Repair""",-274.69
+2026-05-24,Software Subscription,-29.25
+2026-05-24,Software Subscription,-191.37
+2026-05-25,Bank Fee,-12.24
+2026-05-25,Server Hosting,-44.87
+2026-05-25,Bank Fee,-17.20
+2026-05-26,Customer Refund,-865.26
+2026-05-26,Office Supplies,-286.07
+2026-05-26,Customer Refund,-308.41
+2026-05-27,Equipment Purchase,-343.23
+2026-05-27,Office Rent,-1979.96
+2026-05-28,Advertising,-562.55
+2026-05-28,Advertising,-900.13
+2026-06-01,Server Hosting,-105.11
+2026-06-02,Office Supplies,-225.81
+2026-06-02,Employee Payroll,-1560.18
+2026-06-02,Customer Payment,1122.99
+2026-06-03,Equipment Purchase,-2442.90
+2026-06-03,"Travel, Parking and Tolls",-24.98
+2026-06-04,Advertising,-310.65
+2026-06-06,Customer Payment,2667.44
+2026-06-07,"Travel, Parking and Tolls",-16.84
+2026-06-07,Office Rent,-2012.12
+2026-06-07,Equipment Purchase,-752.11
+2026-06-07,Office Rent,-1570.09
+2026-06-07,"Travel, Parking and Tolls",-196.22
+2026-06-08,Advertising,-717.09
+2026-06-08,Software Subscription,-107.76
+2026-06-08,Software Development,2898.09
+2026-06-08,Software Development,6083.22
+2026-06-08,Software Subscription,-35.14
+2026-06-08,Software Subscription,-111.08
+2026-06-08,Software Development,6322.53
+2026-06-09,Bank Fee,-11.32
+2026-06-09,Utility Payment,-292.82
+2026-06-09,Server Hosting,-54.28
+2026-06-09,Subscription Revenue,15.68
+2026-06-09,Bank Fee,-31.80
+2026-06-09,Utility Payment,-178.50
+2026-06-09,Subscription Revenue,49.20
+2026-06-09,Utility Payment,-93.39
+2026-06-09,Utility Payment,-295.18
+2026-06-10,Customer Payment,2708.92
+2026-06-10,Employee Payroll,-3218.55
+2026-06-10,Customer Refund,-758.49
+2026-06-10,Office Supplies,-192.16
+2026-06-10,Office Supplies,-207.05
+2026-06-11,Consulting Revenue,1842.65
+2026-06-11,Office Rent,-2341.34
+2026-06-12,"Equipment ""Repair""",-267.10
+2026-06-12,"Equipment ""Repair""",-426.75
+2026-06-12,"Equipment ""Repair""",-473.48
+2026-06-12,Advertising,-981.26
+2026-06-12,Software Subscription,-245.24
+2026-06-13,Subscription Revenue,231.69
+2026-06-13,Bank Fee,-12.47
+2026-06-13,Subscription Revenue,135.98
+2026-06-14,Office Supplies,-273.28
+2026-06-14,Customer Refund,-598.32
+2026-06-14,Customer Payment,3685.11
+2026-06-15,"Travel, Parking and Tolls",-152.83
+2026-06-15,"Travel, Parking and Tolls",-205.47
+2026-06-15,Office Rent,-1672.46
+2026-06-15,Equipment Purchase,-1008.51
+2026-06-16,Advertising,-155.81
+2026-06-16,"Equipment ""Repair""",-249.59
+2026-06-17,Bank Fee,-27.82
+2026-06-17,Server Hosting,-104.96
+2026-06-17,Bank Fee,-19.15
+2026-06-18,Customer Refund,-238.52
+2026-06-18,Customer Payment,1669.72
+2026-06-18,Office Supplies,-202.85
+2026-06-18,Employee Payroll,-1943.04
+2026-06-19,Consulting Revenue,2998.84
+2026-06-19,Office Rent,-1804.32
+2026-06-19,Consulting Revenue,1822.91
+2026-06-19,Equipment Purchase,-688.29
+2026-06-19,Consulting Revenue,2446.43
+2026-06-19,"Travel, Parking and Tolls",-85.72
+2026-06-20,Software Development,6407.42
+2026-06-22,Customer Refund,-779.32
+2026-06-22,Employee Payroll,-2723.59
+2026-06-23,Equipment Purchase,-1529.11
+2026-06-24,"Equipment ""Repair""",-199.46
+2026-06-24,Software Subscription,-101.67
+2026-06-24,Advertising,-455.92
+2026-06-24,Software Development,1733.37
+2026-06-25,Utility Payment,-291.43
+2026-06-25,Server Hosting,-100.83
+2026-06-25,Server Hosting,-77.70
+2026-06-25,Subscription Revenue,217.39
+2026-06-25,Bank Fee,-7.74
+2026-06-26,Employee Payroll,-2932.56
+2026-06-26,Employee Payroll,-1642.93
+2026-06-26,Customer Refund,-185.55
+2026-06-27,Consulting Revenue,2182.49
+2026-07-01,Subscription Revenue,86.65
+2026-07-01,Utility Payment,-53.63
+2026-07-02,Customer Payment,4128.24
+2026-07-03,Equipment Purchase,-772.54
+2026-07-03,Equipment Purchase,-2288.92
+2026-07-05,Utility Payment,-277.84
+2026-07-05,Bank Fee,-16.27
+2026-07-06,Office Supplies,-194.85
+2026-07-06,Employee Payroll,-3051.37
+2026-07-06,Customer Payment,759.19
+2026-07-06,Employee Payroll,-3078.15
+2026-07-06,Office Supplies,-29.78
+2026-07-06,Customer Refund,-574.14
+2026-07-07,"Travel, Parking and Tolls",-81.15
+2026-07-07,Consulting Revenue,2856.28
+2026-07-07,Office Rent,-2156.90
+2026-07-08,Advertising,-596.88
+2026-07-08,Software Subscription,-287.13
+2026-07-09,Utility Payment,-160.70
+2026-07-09,Server Hosting,-128.73
+2026-07-09,Subscription Revenue,53.57
+2026-07-09,Subscription Revenue,89.52
+2026-07-09,Utility Payment,-152.50
+2026-07-09,Bank Fee,-8.62
+2026-07-09,Utility Payment,-149.32
+2026-07-09,Utility Payment,-122.69
+2026-07-10,Customer Refund,-752.64
+2026-07-10,Office Supplies,-121.52
+2026-07-10,Employee Payroll,-3146.22
+2026-07-10,Employee Payroll,-1999.55
+2026-07-10,Customer Payment,3037.18
+2026-07-11,"Travel, Parking and Tolls",-153.32
+2026-07-11,"Travel, Parking and Tolls",-215.64
+2026-07-12,Advertising,-526.23
+2026-07-12,"Equipment ""Repair""",-154.48
+2026-07-12,Software Subscription,-77.41
+2026-07-12,Advertising,-987.83
+2026-07-12,Advertising,-741.49
+2026-07-12,"Equipment ""Repair""",-102.89
+2026-07-12,Advertising,-641.43
+2026-07-15,Consulting Revenue,2986.69
+2026-07-15,Office Rent,-2490.14
+2026-07-16,"Equipment ""Repair""",-242.05
+2026-07-17,Bank Fee,-18.54
+2026-07-17,Bank Fee,-31.47
+2026-07-17,Subscription Revenue,71.76
+2026-07-17,Server Hosting,-68.87
+2026-07-17,Subscription Revenue,239.25
+2026-07-18,Customer Refund,-612.53
+2026-07-18,Office Supplies,-260.27
+2026-07-18,Office Supplies,-320.66
+2026-07-18,Employee Payroll,-3031.16
+2026-07-19,Consulting Revenue,1416.29
+2026-07-19,"Travel, Parking and Tolls",-159.11
+2026-07-19,Equipment Purchase,-1960.83
+2026-07-19,Equipment Purchase,-1790.00
+2026-07-19,Office Rent,-2484.40
+2026-07-19,Equipment Purchase,-618.01
+2026-07-19,Consulting Revenue,2941.16
+2026-07-20,Software Subscription,-240.50
+2026-07-20,Advertising,-575.92
+2026-07-21,Server Hosting,-101.90
+2026-07-21,Server Hosting,-30.88
+2026-07-22,Customer Payment,1597.83
+2026-07-22,Customer Refund,-540.82
+2026-07-23,Office Rent,-2206.56
+2026-07-23,Consulting Revenue,1278.06
+2026-07-23,"Travel, Parking and Tolls",-52.33
+2026-07-24,Software Development,6162.68
+2026-07-24,"Equipment ""Repair""",-304.39
+2026-07-24,"Equipment ""Repair""",-143.36
+2026-07-25,Server Hosting,-65.90
+2026-07-25,Bank Fee,-16.21
+2026-07-26,Customer Payment,4058.46
+2026-07-26,Customer Refund,-585.17
+2026-07-26,Customer Payment,3590.70
+2026-07-27,Office Rent,-2704.02
+2026-07-27,Equipment Purchase,-564.17
+2026-07-28,Software Subscription,-18.20
+2026-07-28,Software Development,1610.67
+2026-07-28,Software Development,4681.90
+2026-07-28,Software Development,6933.83
+2026-07-28,Software Subscription,-287.47
+2026-07-28,Software Development,1597.00
+2026-08-01,Server Hosting,-144.34
+2026-08-01,Server Hosting,-140.20
+2026-08-02,Employee Payroll,-3364.74
+2026-08-02,Office Supplies,-198.48
+2026-08-02,Employee Payroll,-2759.39
+2026-08-03,Consulting Revenue,2901.36
+2026-08-03,"Travel, Parking and Tolls",-6.40
+2026-08-03,Office Rent,-2804.57
+2026-08-04,Software Development,1309.86
+2026-08-04,Advertising,-595.92
+2026-08-04,"Equipment ""Repair""",-307.33
+2026-08-05,Utility Payment,-82.47
+2026-08-05,Utility Payment,-249.50
+2026-08-06,Office Supplies,-29.49
+2026-08-06,Customer Payment,2988.79
+2026-08-06,Customer Refund,-20.84
+2026-08-06,Customer Refund,-767.07
+2026-08-07,Office Rent,-1578.97
+2026-08-07,Office Rent,-1770.22
+2026-08-08,Advertising,-514.27
+2026-08-08,Software Development,4123.04
+2026-08-08,Advertising,-576.99
+2026-08-08,Software Development,2608.55
+2026-08-09,Bank Fee,-9.34
+2026-08-09,Subscription Revenue,182.14
+2026-08-09,Bank Fee,-22.96
+2026-08-09,Utility Payment,-77.91
+2026-08-09,Subscription Revenue,142.35
+2026-08-09,Bank Fee,-16.26
+2026-08-09,Bank Fee,-16.89
+2026-08-09,Utility Payment,-289.96
+2026-08-10,Customer Refund,-474.78
+2026-08-10,Customer Refund,-970.60
+2026-08-10,Office Supplies,-345.19
+2026-08-10,Customer Payment,1682.80
+2026-08-10,Customer Payment,3905.98
+2026-08-10,Employee Payroll,-3087.24
+2026-08-10,Customer Payment,1738.78
+2026-08-11,Equipment Purchase,-2085.72
+2026-08-11,Consulting Revenue,1690.73
+2026-08-11,"Travel, Parking and Tolls",-57.88
+2026-08-11,"Travel, Parking and Tolls",-126.98
+2026-08-12,Advertising,-618.12
+2026-08-13,Utility Payment,-108.03
+2026-08-13,Server Hosting,-33.04
+2026-08-13,Bank Fee,-2.48
+2026-08-13,Server Hosting,-64.92
+2026-08-14,Customer Payment,1502.52
+2026-08-14,Employee Payroll,-2257.09
+2026-08-14,Employee Payroll,-1537.35
+2026-08-15,Consulting Revenue,2631.27
+2026-08-16,"Equipment ""Repair""",-423.16
+2026-08-17,Server Hosting,-137.65
+2026-08-18,Customer Refund,-926.66
+2026-08-19,Office Rent,-2834.92
+2026-08-19,Equipment Purchase,-1828.96
+2026-08-19,Office Rent,-1954.86
+2026-08-19,Equipment Purchase,-2225.28
+2026-08-20,Software Subscription,-120.84
+2026-08-20,"Equipment ""Repair""",-225.88
+2026-08-20,Software Subscription,-164.31
+2026-08-20,Advertising,-832.14
+2026-08-21,Server Hosting,-129.69
+2026-08-22,Customer Refund,-206.79
+2026-08-23,Consulting Revenue,2520.63
+2026-08-23,Equipment Purchase,-1069.05
+2026-08-24,Software Development,4147.56
+2026-08-24,Software Subscription,-94.23
+2026-08-24,Software Subscription,-159.35
+2026-08-25,Subscription Revenue,89.57
+2026-08-25,Subscription Revenue,95.10
+2026-08-25,Subscription Revenue,85.07
+2026-08-26,Office Supplies,-178.64
+2026-08-26,Office Supplies,-271.68
+2026-08-27,Consulting Revenue,1635.09
+2026-08-27,"Travel, Parking and Tolls",-141.76
+2026-08-27,Equipment Purchase,-2050.48
+2026-08-27,"Travel, Parking and Tolls",-58.59
+2026-08-28,Software Subscription,-178.30
+2026-08-28,"Equipment ""Repair""",-78.40
+2026-08-28,Software Subscription,-246.23
+2026-08-28,"Equipment ""Repair""",-386.19
+2026-08-28,Software Development,6493.44
+2026-09-01,Server Hosting,-130.69
+2026-09-02,Office Supplies,-291.10
+2026-09-02,Customer Payment,2641.68
+2026-09-02,Customer Refund,-12.80
+2026-09-02,Employee Payroll,-1926.54
+2026-09-02,Customer Refund,-476.27
+2026-09-03,"Travel, Parking and Tolls",-118.45
+2026-09-04,Advertising,-541.62
+2026-09-04,Software Development,3628.10
+2026-09-04,"Equipment ""Repair""",-444.59
+2026-09-04,Software Subscription,-93.08
+2026-09-05,Subscription Revenue,180.30
+2026-09-05,Bank Fee,-12.41
+2026-09-05,Utility Payment,-109.12
+2026-09-06,Employee Payroll,-1501.30
+2026-09-06,Office Supplies,-238.12
+2026-09-06,Employee Payroll,-1326.24
+2026-09-07,Consulting Revenue,640.69
+2026-09-07,"Travel, Parking and Tolls",-29.80
+2026-09-08,Software Subscription,-51.46
+2026-09-08,Software Development,6779.65
+2026-09-08,Advertising,-256.84
+2026-09-08,Advertising,-460.01
+2026-09-08,Software Development,1370.33
+2026-09-09,Server Hosting,-30.42
+2026-09-09,Subscription Revenue,82.21
+2026-09-09,Server Hosting,-80.45
+2026-09-10,Customer Payment,1922.97
+2026-09-10,Office Supplies,-334.83
+2026-09-10,Office Supplies,-257.74
+2026-09-10,Employee Payroll,-2486.56
+2026-09-11,"Travel, Parking and Tolls",-159.75
+2026-09-11,Equipment Purchase,-1512.66
+2026-09-11,Equipment Purchase,-681.89
+2026-09-11,"Travel, Parking and Tolls",-106.26
+2026-09-12,"Equipment ""Repair""",-62.30
+2026-09-12,Software Subscription,-86.73
+2026-09-12,Software Development,3046.34
+2026-09-13,Bank Fee,-5.71
+2026-09-13,Server Hosting,-143.43
+2026-09-13,Utility Payment,-76.57
+2026-09-14,Customer Refund,-416.09
+2026-09-15,Equipment Purchase,-1654.75
+2026-09-15,Consulting Revenue,2699.80
+2026-09-15,Consulting Revenue,654.28
+2026-09-16,Software Development,5997.36
+2026-09-16,Advertising,-316.32
+2026-09-16,"Equipment ""Repair""",-53.26
+2026-09-17,Server Hosting,-91.70
+2026-09-17,Subscription Revenue,127.47
+2026-09-17,Subscription Revenue,191.07
+2026-09-18,Customer Refund,-131.96
+2026-09-18,Office Supplies,-226.53
+2026-09-19,Equipment Purchase,-873.75
+2026-09-19,Office Rent,-1731.72
+2026-09-19,Equipment Purchase,-368.29
+2026-09-20,Software Subscription,-127.27
+2026-09-20,Advertising,-578.85
+2026-09-21,Bank Fee,-19.01
+2026-09-21,Utility Payment,-68.25
+2026-09-21,Utility Payment,-172.48
+2026-09-21,Subscription Revenue,80.41
+2026-09-21,Utility Payment,-99.77
+2026-09-21,Bank Fee,-12.07
+2026-09-22,Employee Payroll,-3098.49
+2026-09-22,Customer Refund,-763.23
+2026-09-22,Customer Payment,3911.09
+2026-09-23,Consulting Revenue,1192.74
+2026-09-23,Office Rent,-1881.61
+2026-09-23,Consulting Revenue,510.93
+2026-09-23,Office Rent,-2914.10
+2026-09-24,"Equipment ""Repair""",-47.58
+2026-09-24,"Equipment ""Repair""",-121.37
+2026-09-24,Software Subscription,-200.35
+2026-09-25,Subscription Revenue,113.51
+2026-09-25,Bank Fee,-33.26
+2026-09-26,Customer Payment,1635.51
+2026-09-26,Customer Payment,3071.88
+2026-09-27,Office Rent,-2377.50
+2026-09-27,"Travel, Parking and Tolls",-46.79
+2026-09-27,Office Rent,-2137.22
+2026-09-27,Office Rent,-2619.53
+2026-09-28,Software Development,4612.01
+2026-10-01,Subscription Revenue,31.65
+2026-10-01,Server Hosting,-73.88
+2026-10-02,Office Supplies,-10.94
+2026-10-02,Customer Payment,2442.05
+2026-10-02,Customer Refund,-515.50
+2026-10-03,"Travel, Parking and Tolls",-168.04
+2026-10-03,Office Rent,-2134.58
+2026-10-04,Advertising,-803.86
+2026-10-04,"Equipment ""Repair""",-379.43
+2026-10-04,Advertising,-978.21
+2026-10-04,Advertising,-698.30
+2026-10-04,"Equipment ""Repair""",-251.93
+2026-10-05,Bank Fee,-25.91
+2026-10-05,Bank Fee,-20.15
+2026-10-05,Server Hosting,-113.36
+2026-10-05,Subscription Revenue,156.73
+2026-10-05,Bank Fee,-3.84
+2026-10-06,Customer Payment,2954.89
+2026-10-07,Equipment Purchase,-510.65
+2026-10-07,Equipment Purchase,-711.52
+2026-10-07,Consulting Revenue,1504.27
+2026-10-07,Office Rent,-2066.73
+2026-10-08,"Equipment ""Repair""",-156.27
+2026-10-08,Software Subscription,-261.36
+2026-10-09,Utility Payment,-131.02
+2026-10-09,Utility Payment,-264.80
+2026-10-09,Subscription Revenue,119.44
+2026-10-10,Office Supplies,-82.06
+2026-10-10,Employee Payroll,-3031.40
+2026-10-10,Office Supplies,-163.59
+2026-10-10,Office Supplies,-302.90
+2026-10-11,Equipment Purchase,-305.06
+2026-10-11,"Travel, Parking and Tolls",-229.54
+2026-10-12,Software Subscription,-189.39
+2026-10-12,"Equipment ""Repair""",-388.15
+2026-10-13,Bank Fee,-28.55
+2026-10-13,Subscription Revenue,195.46
+2026-10-13,Bank Fee,-15.16
+2026-10-13,Utility Payment,-108.10
+2026-10-14,Office Supplies,-285.84
+2026-10-14,Employee Payroll,-3468.94
+2026-10-14,Employee Payroll,-2196.63
+2026-10-15,Consulting Revenue,1214.67
+2026-10-15,Office Rent,-2169.90
+2026-10-16,Software Development,4974.41
+2026-10-16,Software Development,5231.67
+2026-10-16,Advertising,-116.53
+2026-10-16,"Equipment ""Repair""",-277.89
+2026-10-16,Software Subscription,-128.91
+2026-10-16,Software Development,5659.00
+2026-10-17,Server Hosting,-128.01
+2026-10-17,Bank Fee,-14.60
+2026-10-17,Utility Payment,-183.82
+2026-10-17,Server Hosting,-59.76
+2026-10-18,Customer Refund,-747.31
+2026-10-18,Customer Refund,-496.24
+2026-10-18,Office Supplies,-121.50
+2026-10-19,"Travel, Parking and Tolls",-231.65
+2026-10-21,Utility Payment,-73.45
+2026-10-21,Subscription Revenue,149.23
+2026-10-22,Employee Payroll,-2888.28
+2026-10-22,Customer Payment,1050.01
+2026-10-22,Customer Refund,-250.98
+2026-10-22,Customer Payment,3765.07
+2026-10-23,Office Rent,-1501.24
+2026-10-23,Equipment Purchase,-452.10
+2026-10-23,Office Rent,-1852.16
+2026-10-23,"Travel, Parking and Tolls",-128.11
+2026-10-24,Software Subscription,-25.97
+2026-10-24,Software Subscription,-54.27
+2026-10-24,Software Development,5910.56
+2026-10-24,Advertising,-939.84
+2026-10-25,Server Hosting,-51.19
+2026-10-26,Employee Payroll,-1792.39
+2026-10-26,Customer Payment,3160.66
+2026-10-26,Customer Refund,-191.68
+2026-10-27,Consulting Revenue,2961.02
+2026-10-27,"Travel, Parking and Tolls",-202.64
+2026-10-27,Consulting Revenue,2911.18
+2026-10-27,Consulting Revenue,2322.85
+2026-10-27,Equipment Purchase,-2127.31
+2026-10-27,Consulting Revenue,2949.63
+2026-10-28,"Equipment ""Repair""",-224.35
+2026-10-28,Software Development,4165.63
+2026-11-01,Server Hosting,-122.99
+2026-11-01,Subscription Revenue,55.75
+2026-11-02,Customer Payment,2583.25
+2026-11-02,Customer Payment,3840.72
+2026-11-02,Customer Payment,2752.04
+2026-11-02,Employee Payroll,-2711.35
+2026-11-03,"Travel, Parking and Tolls",-182.26
+2026-11-03,Office Rent,-2064.98
+2026-11-03,Equipment Purchase,-2450.56
+2026-11-03,"Travel, Parking and Tolls",-134.09
+2026-11-04,Advertising,-257.94
+2026-11-04,Software Development,5484.20
+2026-11-04,Software Development,2036.25
+2026-11-04,Advertising,-407.39
+2026-11-04,Software Subscription,-170.89
+2026-11-05,Utility Payment,-156.30
+2026-11-05,Bank Fee,-14.09
+2026-11-05,Server Hosting,-87.87
+2026-11-06,Customer Refund,-720.06
+2026-11-07,Equipment Purchase,-1274.39
+2026-11-07,Consulting Revenue,753.51
+2026-11-07,Equipment Purchase,-827.38
+2026-11-07,Office Rent,-2691.25
+2026-11-07,Consulting Revenue,732.41
+2026-11-07,Office Rent,-2958.73
+2026-11-07,Equipment Purchase,-1612.45
+2026-11-08,Advertising,-881.27
+2026-11-08,Software Subscription,-259.95
+2026-11-08,"Equipment ""Repair""",-403.78
+2026-11-08,Advertising,-957.51
+2026-11-09,Utility Payment,-129.42
+2026-11-09,Utility Payment,-203.44
+2026-11-09,Subscription Revenue,56.40
+2026-11-10,Employee Payroll,-3447.44
+2026-11-10,Employee Payroll,-3024.34
+2026-11-10,Office Supplies,-238.26
+2026-11-10,Office Supplies,-120.87
+2026-11-11,Office Rent,-2770.84
+2026-11-11,Consulting Revenue,762.49
+2026-11-11,Consulting Revenue,2063.16
+2026-11-12,Software Subscription,-53.90
+2026-11-12,Software Subscription,-186.78
+2026-11-13,Subscription Revenue,27.04
+2026-11-13,Server Hosting,-146.94
+2026-11-13,Utility Payment,-74.95
+2026-11-14,Employee Payroll,-1935.13
+2026-11-14,Employee Payroll,-2938.24
+2026-11-15,"Travel, Parking and Tolls",-36.05
+2026-11-15,Office Rent,-2473.70
+2026-11-16,Software Development,6019.54
+2026-11-16,"Equipment ""Repair""",-218.15
+2026-11-16,Advertising,-258.96
+2026-11-16,Software Development,5708.83
+2026-11-17,Server Hosting,-103.15
+2026-11-17,Bank Fee,-5.58
+2026-11-18,Office Supplies,-112.44
+2026-11-18,Customer Refund,-492.72
+2026-11-18,Customer Refund,-785.51
+2026-11-18,Customer Payment,1183.29
+2026-11-18,Customer Refund,-387.63
+2026-11-18,Office Supplies,-125.39
+2026-11-19,"Travel, Parking and Tolls",-19.39
+2026-11-20,"Equipment ""Repair""",-448.86
+2026-11-20,Software Development,1951.70
+2026-11-20,"Equipment ""Repair""",-269.48
+2026-11-22,Customer Refund,-548.54
+2026-11-22,Office Supplies,-184.55
+2026-11-23,"Travel, Parking and Tolls",-119.70
+2026-11-23,"Travel, Parking and Tolls",-185.46
+2026-11-24,Software Subscription,-143.71
+2026-11-24,Advertising,-302.35
+2026-11-24,"Equipment ""Repair""",-32.13
+2026-11-25,Bank Fee,-3.86
+2026-11-25,Subscription Revenue,119.53
+2026-11-25,Bank Fee,-3.93
+2026-11-25,Subscription Revenue,176.31
+2026-11-25,Utility Payment,-247.98
+2026-11-25,Server Hosting,-104.86
+2026-11-25,Bank Fee,-3.83
+2026-11-26,Customer Payment,4000.51
+2026-11-26,Employee Payroll,-2588.51
+2026-11-27,Equipment Purchase,-497.61
+2026-11-27,Consulting Revenue,984.59
+2026-12-01,Server Hosting,-58.42
+2026-12-01,Subscription Revenue,211.53
+2026-12-02,Customer Refund,-556.50
+2026-12-02,Office Supplies,-251.90
+2026-12-02,Office Supplies,-58.63
+2026-12-03,Equipment Purchase,-889.98
+2026-12-03,"Travel, Parking and Tolls",-219.06
+2026-12-03,Equipment Purchase,-1290.37
+2026-12-04,Advertising,-256.33
+2026-12-04,"Equipment ""Repair""",-73.38
+2026-12-04,Advertising,-364.58
+2026-12-04,Software Subscription,-41.74
+2026-12-04,"Equipment ""Repair""",-219.21
+2026-12-04,Advertising,-334.48
+2026-12-06,Office Supplies,-69.51
+2026-12-06,Customer Payment,3035.50
+2026-12-06,Customer Refund,-259.08
+2026-12-06,Employee Payroll,-1422.29
+2026-12-07,Equipment Purchase,-2429.06
+2026-12-07,Consulting Revenue,1427.07
+2026-12-07,"Travel, Parking and Tolls",-246.09
+2026-12-08,Software Development,5756.40
+2026-12-08,Software Development,2870.11
+2026-12-08,Software Development,5815.63
+2026-12-09,Subscription Revenue,102.52
+2026-12-09,Utility Payment,-203.39
+2026-12-10,Employee Payroll,-3304.94
+2026-12-10,Employee Payroll,-1317.04
+2026-12-11,"Travel, Parking and Tolls",-114.01
+2026-12-12,"Equipment ""Repair""",-208.38
+2026-12-12,Advertising,-485.56
+2026-12-12,Software Subscription,-58.40
+2026-12-12,Software Development,3792.64
+2026-12-13,Bank Fee,-19.97
+2026-12-13,Utility Payment,-261.81
+2026-12-13,Server Hosting,-135.44
+2026-12-13,Subscription Revenue,70.41
+2026-12-13,Utility Payment,-85.58
+2026-12-14,Customer Refund,-11.14
+2026-12-14,Customer Refund,-342.82
+2026-12-14,Office Supplies,-296.56
+2026-12-14,Employee Payroll,-1771.90
+2026-12-15,Equipment Purchase,-2130.38
+2026-12-15,Office Rent,-2713.15
+2026-12-15,Office Rent,-2520.10
+2026-12-15,Office Rent,-2992.87
+2026-12-15,Equipment Purchase,-2406.57
+2026-12-16,Software Subscription,-94.15
+2026-12-17,Utility Payment,-232.43
+2026-12-17,Bank Fee,-33.37
+2026-12-17,Bank Fee,-7.95
+2026-12-17,Utility Payment,-186.36
+2026-12-17,Subscription Revenue,206.64
+2026-12-18,Office Supplies,-54.29
+2026-12-18,Customer Payment,1271.96
+2026-12-19,"Travel, Parking and Tolls",-24.38
+2026-12-19,Equipment Purchase,-1423.45
+2026-12-20,Software Subscription,-129.10
+2026-12-20,"Equipment ""Repair""",-114.14
+2026-12-20,"Equipment ""Repair""",-109.75
+2026-12-21,Server Hosting,-72.01
+2026-12-21,Bank Fee,-10.82
+2026-12-21,Utility Payment,-184.33
+2026-12-21,Bank Fee,-7.57
+2026-12-22,Customer Payment,1648.98
+2026-12-23,Office Rent,-2462.87
+2026-12-23,Office Rent,-2276.80
+2026-12-24,Advertising,-879.58
+2026-12-25,Server Hosting,-80.02
+2026-12-25,Subscription Revenue,182.31
+2026-12-25,Server Hosting,-57.95
+2026-12-26,Customer Payment,1479.30
+2026-12-26,Employee Payroll,-3270.23
+2026-12-26,Customer Payment,3700.62
+2026-12-26,Customer Refund,-856.12
+2026-12-26,Customer Payment,463.23
+2026-12-27,Consulting Revenue,2891.23
+2026-12-27,"Travel, Parking and Tolls",-17.25
+2026-12-27,Consulting Revenue,1816.83
+2026-12-27,Consulting Revenue,2556.48
+2026-12-27,Consulting Revenue,645.68
+2026-12-28,Software Development,2423.23
+2026-12-28,Software Subscription,-127.94
