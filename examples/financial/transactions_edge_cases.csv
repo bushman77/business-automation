@@ -1,0 +1,26 @@
+date,description,amount
+2026-01-01,Opening balance adjustment,100.00
+2026-01-01,Offset adjustment,-100.00
+2026-01-02,Zero amount,0.00
+2026-01-02,Repeated valid transaction,0.01
+2026-01-02,Repeated valid transaction,0.01
+2026-01-03,Two-cent expense,-0.02
+2026-03-01,Small income,0.01
+2026-03-02,Small expense,-0.01
+2026-03-03,Refund,-500.00
+2026-03-04,"Travel, Parking and Tolls",-12.34
+2026-03-05,"Equipment ""Repair""",-25.00
+2026-04-01,=1+1,0.00
+2026-04-02,+example,0.00
+2026-04-03,-example,0.00
+2026-04-04,@example,0.00
+2026-04-05,Café supplies,-12.50
+2026-04-06,Reimbursement,12.50
+2026-06-01,Large customer payment,999999.99
+2026-06-02,Large expense,-999999.98
+2026-06-03,Rounding example,0.01
+2026-06-04,Rounding example,0.02
+2026-07-01,Zero-only period,0.00
+2026-07-02,Another zero,0.00
+2026-12-31,Year end receipt,200.00
+2026-12-31,Year end payment,-10.00
