@@ -1,0 +1,7 @@
+dataset,count,income,expenses,net,income_count,expense_count,neutral_count
+transactions_basic.csv,10,4550.00,401.47,4148.53,4,6,0
+transactions_small.csv,100,56689.29,53434.26,3255.03,25,75,0
+transactions_medium.csv,1000,548048.41,497599.12,50449.29,249,751,0
+transactions_large.csv,10000,5164727.84,5001294.97,163432.87,2500,7500,0
+transactions_edge_cases.csv,25,1000312.55,1000659.85,-347.30,9,9,7
+transactions.tsv,100,56689.29,53434.26,3255.03,25,75,0
